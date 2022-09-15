@@ -169,6 +169,11 @@ Josh Eaton (https://github.com/jjeaton/)
 
 == Changelog ==
 
+= 1.8.6 =
+* September 15th, 2022
+* PHP v8 compatibility fixes
+* Includes other outstanding pulls requests from https://github.com/aesqe/file-gallery/pulls
+
 = 1.8.5.1 =
 * October 5th, 2015
 * minor: added text domain name into plugin info header for 
